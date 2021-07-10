@@ -1,0 +1,167 @@
+
+*{
+    background-color: rgb(240,89,100) ;
+}
+h1{
+ 
+  font-style: italic;
+}
+
+p{
+  font-size: 23px;
+  color: rgb(73, 0, 107);
+  font-family: 'Algerian';
+}
+h1{
+    color: black
+}
+h2{
+    color:black
+}
+a{
+  font-size: 20px;
+}
+a:link{
+  color:chartreuse
+}
+a:visited{
+  color:green
+}
+a:hover{
+  box-shadow: 2px 2px 2px 2px #0ef;
+}
+.part1{
+   border: solid;
+    border-width:30pt;
+    color: seagreen; 
+ 
+}
+.part2{
+   behavior: 'scroll';
+   direction: 'left' ;
+    border: solid;
+    border-width:30pt;
+    color: seagreen
+}
+.images{
+    border:solid;
+    border-width:10px;
+    display:flex;
+    justify-content: space-evenly; 
+    color: seagreen
+}
+.part3{
+    border: solid;
+    border-width:30pt;
+    color: seagreen
+}
+.part4{
+    border: solid;
+    border-width:30pt;
+    color: seagreen
+}
+.part5{
+    border: solid;
+    border-width:30pt;
+    color: seagreen
+}
+.image2{
+    margin-left:35%;
+    border:solid;
+   margin-right: 45.2%;
+  }
+  .image3{
+    margin-left:35%;
+    border:solid;
+   margin-right: 48.5%;
+  }
+  .image4{
+    margin-left:35%;
+    border:solid;
+   margin-right: 31%;
+  }
+  .image5{
+    margin-left:35%;
+    border:solid;
+   margin-right: 38%;
+  }
+
+  .part6{
+    border: solid;
+    border-width:30pt;
+    color: seagreen
+}
+.image6{
+    margin-left:30%;
+    border:solid;
+   margin-right: 26%;
+  }
+  .image7{
+    margin-left:30%;
+    border:solid;
+   margin-right: 36%;
+  }
+  .image7{
+    margin-left:30%;
+    border:solid;
+   margin-right: 36%;
+  }
+  .image8{
+    margin-left:30%;
+    border:solid;
+   margin-right: 26.3%;
+  }
+  .image9{
+    margin-left:30%;
+    border:solid;
+   margin-right: 36.3%;
+  }
+  .image10{
+    margin-left:30%;
+    border:solid;
+   margin-right: 38.3%;
+  }
+  .image11{
+    margin-left:35%;
+    border:solid;
+   margin-right: 38%;
+  }
+  .image12{
+    margin-left:35%;
+    border:solid;
+   margin-right: 38%;
+  }
+  .image13{
+    margin-left:34%;
+    border:solid;
+   margin-right: 27.5%;
+  }
+  ul{
+    font-size: 23px;
+    color: rgb(73, 0, 107);
+    font-family: 'Algerian';
+  }
+  ol{
+    font-size: 23px;
+    color: rgb(73, 0, 107);
+    font-family: 'Algerian';
+  }
+  table{
+    margin-left:32%;
+    border:solid;
+    border-color:rgb(0, 0, 0);
+    margin-right:33%;
+    text-shadow: darkturquoise;
+    
+
+  }
+  td{
+    background:blue
+  }
+  tr{
+    background:red;
+    color:gold
+  }
+  
+
+  
